@@ -33,13 +33,9 @@ Memory Game یک بازی ساده برای تست و تقویت حافظه‌ی
 ## 🪚 پیش نمایش
 ![image](https://github.com/user-attachments/assets/86ab89bd-7779-40df-be5c-b471cdeb1f82)
 
-## زبان
-
-- فارسی
-
 **If this project is helpful to you, you may wish to give it a**:star2:
 
-<p align="left"><a href="#"><img width="125" src="https://github.com/dev-ir/assistant-vps/assets/114811214/cc33e615-478e-4b2b-866e-277a6f1c3c81" alt="Image"></a></p>
+<p align="left"><a href="#"><img width="100%" src="https://github.com/dev-ir/assistant-vps/assets/114811214/cc33e615-478e-4b2b-866e-277a6f1c3c81" alt="Image"></a></p>
 
 - USDT (TRC20): `TVUqVMoCEe5DVUoxmPg8MwmgcHvZLqLjr4`
 
